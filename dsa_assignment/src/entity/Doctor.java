@@ -13,7 +13,7 @@ public class Doctor {
     private String specialization;
     private String contactNumber;
     private String email;
-    private double consulationFee;
+    private double consultationFee;
     private boolean isAvailable;
     private String[] workingDays;
     private LocalTime startTime;
